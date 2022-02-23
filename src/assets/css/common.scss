@@ -1,0 +1,20 @@
+$fontSize-xs: 12px;
+$fontSize-s: 14px;
+$fontSize-m: 16px;
+$fontSize-l: 20px;
+$fontSize-xl: 30px;
+
+$primary-orange: #ff7d1a;
+$secondary-orange: #ffede0;
+$primary-pink: #ff5792;
+$secondary-pink: #ffccde;
+$white: white;
+$grey: #7A818C;
+$light-grey: #F7F8FD;
+$black: black;
+
+@mixin mobile {
+    @media (max-width: 900px) {
+        @content
+    }
+}

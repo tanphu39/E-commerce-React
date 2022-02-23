@@ -1,0 +1,37 @@
+@import '../../assets/css/common.scss';
+
+.container {
+    color: $grey;
+    background-color: $white;
+    border: none;
+    width: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+
+    &:hover {
+        cursor: pointer;
+    }
+
+    &.text-only {
+        background-color: transparent;
+        font-size: $fontSize-m;
+        &:hover {
+            color: $black;
+            text-decoration: underline $primary-orange;
+        }
+    }
+    &.bold {
+        background-color: transparent;
+        color: $black;
+        font-weight: bold;
+        font-size: $fontSize-xl;
+    }
+    &.orange {
+        background-color: $primary-orange;
+    }
+    &.round-orange {
+        background-color: $primary-orange;
+    }
+}

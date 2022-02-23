@@ -1,0 +1,53 @@
+@import '../../assets/css/common.scss';
+
+.container {
+    height: 5rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0;
+    @include mobile {
+
+    }
+}
+
+.pages {
+    display: flex;
+    align-items: center;
+}
+
+.cartAva {
+    display: flex;
+    align-items: center;
+}
+
+.button {
+    height: 2rem;
+    width: auto;
+    padding: 0 0.75rem 0 0;
+    @include mobile {
+
+    }
+}
+
+.home-btn {
+    width: auto;
+    padding: 0 2rem 0 0;
+}
+
+.cartButton {
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+
+.cartNumber {
+    width: 2rem; height: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    background: $primary-orange;
+    border: 1px solid $primary-orange;
+    border-radius: 100%;
+}

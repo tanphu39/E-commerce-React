@@ -1,0 +1,31 @@
+@import '../../assets/css/common.scss';
+
+.primary {
+    border-radius: 20px;
+    width: 25rem;
+    height: auto;
+}
+
+.secondary {
+    border-radius: 20px;
+    width: 5.6rem;
+    height: auto;
+}
+
+.logo {
+    width: 1.5rem;
+    height: auto;
+}
+
+.avatar {
+    border-radius: 100%;
+    width: 3rem;
+    height: auto;
+    margin: 0 0 0 3rem;
+}
+
+.contact {
+    border-radius: 10px;
+    width: 30rem;
+    height: auto;
+}
