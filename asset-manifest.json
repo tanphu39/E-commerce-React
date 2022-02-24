@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/E-commerce-React/static/css/main.dfc7fe57.chunk.css",
+    "main.js": "/E-commerce-React/static/js/main.aedae872.chunk.js",
+    "main.js.map": "/E-commerce-React/static/js/main.aedae872.chunk.js.map",
+    "runtime-main.js": "/E-commerce-React/static/js/runtime-main.616987e2.js",
+    "runtime-main.js.map": "/E-commerce-React/static/js/runtime-main.616987e2.js.map",
+    "static/js/2.f08f77b1.chunk.js": "/E-commerce-React/static/js/2.f08f77b1.chunk.js",
+    "static/js/2.f08f77b1.chunk.js.map": "/E-commerce-React/static/js/2.f08f77b1.chunk.js.map",
+    "static/js/3.bf8e9479.chunk.js": "/E-commerce-React/static/js/3.bf8e9479.chunk.js",
+    "static/js/3.bf8e9479.chunk.js.map": "/E-commerce-React/static/js/3.bf8e9479.chunk.js.map",
+    "index.html": "/E-commerce-React/index.html",
+    "static/css/main.dfc7fe57.chunk.css.map": "/E-commerce-React/static/css/main.dfc7fe57.chunk.css.map",
+    "static/js/2.f08f77b1.chunk.js.LICENSE.txt": "/E-commerce-React/static/js/2.f08f77b1.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/E-commerce-React/static/media/Nexa-Light.a55b9fed.woff",
+    "static/media/ava.a4af5f1d.jpg": "/E-commerce-React/static/media/ava.a4af5f1d.jpg",
+    "static/media/cart.2f7e45d6.svg": "/E-commerce-React/static/media/cart.2f7e45d6.svg",
+    "static/media/sneakers-1.520cc50b.jpg": "/E-commerce-React/static/media/sneakers-1.520cc50b.jpg",
+    "static/media/sneakers-2.af5c71ba.jpg": "/E-commerce-React/static/media/sneakers-2.af5c71ba.jpg",
+    "static/media/sneakers-3.9962862e.jpg": "/E-commerce-React/static/media/sneakers-3.9962862e.jpg",
+    "static/media/sneakers-4.c8bb0aac.jpg": "/E-commerce-React/static/media/sneakers-4.c8bb0aac.jpg",
+    "static/media/sneakers-women-1.e2ef0e2d.jpeg": "/E-commerce-React/static/media/sneakers-women-1.e2ef0e2d.jpeg",
+    "static/media/sneakers-women-2.694f8a48.jpeg": "/E-commerce-React/static/media/sneakers-women-2.694f8a48.jpeg",
+    "static/media/sneakers-women-3.a38c9213.jpeg": "/E-commerce-React/static/media/sneakers-women-3.a38c9213.jpeg",
+    "static/media/sneakers-women-4.7f007214.jpeg": "/E-commerce-React/static/media/sneakers-women-4.7f007214.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.616987e2.js",
+    "static/js/2.f08f77b1.chunk.js",
+    "static/css/main.dfc7fe57.chunk.css",
+    "static/js/main.aedae872.chunk.js"
+  ]
+}
