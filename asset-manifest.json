@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/E-commerce-React/static/css/main.dfc7fe57.chunk.css",
-    "main.js": "/E-commerce-React/static/js/main.aedae872.chunk.js",
-    "main.js.map": "/E-commerce-React/static/js/main.aedae872.chunk.js.map",
+    "main.css": "/E-commerce-React/static/css/main.09346464.chunk.css",
+    "main.js": "/E-commerce-React/static/js/main.206321c6.chunk.js",
+    "main.js.map": "/E-commerce-React/static/js/main.206321c6.chunk.js.map",
     "runtime-main.js": "/E-commerce-React/static/js/runtime-main.616987e2.js",
     "runtime-main.js.map": "/E-commerce-React/static/js/runtime-main.616987e2.js.map",
     "static/js/2.f08f77b1.chunk.js": "/E-commerce-React/static/js/2.f08f77b1.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.bf8e9479.chunk.js": "/E-commerce-React/static/js/3.bf8e9479.chunk.js",
     "static/js/3.bf8e9479.chunk.js.map": "/E-commerce-React/static/js/3.bf8e9479.chunk.js.map",
     "index.html": "/E-commerce-React/index.html",
-    "static/css/main.dfc7fe57.chunk.css.map": "/E-commerce-React/static/css/main.dfc7fe57.chunk.css.map",
+    "static/css/main.09346464.chunk.css.map": "/E-commerce-React/static/css/main.09346464.chunk.css.map",
     "static/js/2.f08f77b1.chunk.js.LICENSE.txt": "/E-commerce-React/static/js/2.f08f77b1.chunk.js.LICENSE.txt",
     "static/media/App.scss": "/E-commerce-React/static/media/Nexa-Light.a55b9fed.woff",
     "static/media/ava.a4af5f1d.jpg": "/E-commerce-React/static/media/ava.a4af5f1d.jpg",
@@ -27,7 +27,7 @@
   "entrypoints": [
     "static/js/runtime-main.616987e2.js",
     "static/js/2.f08f77b1.chunk.js",
-    "static/css/main.dfc7fe57.chunk.css",
-    "static/js/main.aedae872.chunk.js"
+    "static/css/main.09346464.chunk.css",
+    "static/js/main.206321c6.chunk.js"
   ]
 }
